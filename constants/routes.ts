@@ -7,6 +7,6 @@ export type IRoutes = {
 }
 
 export const ROUTES: IRoutes = {
-  INDEX: { name: 'index' },
+  INDEX: { name: 'index' },//
   AUTHORIZATION_LOGIN: { name: 'authorization/login' }
 }
